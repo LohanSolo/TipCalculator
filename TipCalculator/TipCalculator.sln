@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalculator.Android", "TipCalculator\TipCalculator.Android.csproj", "{A27AD349-2BD3-4E4C-B791-054E46AFAE64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipCalculator.Core", "TipCalculator.Core\TipCalculator.Core.csproj", "{A22574CD-832C-400F-AF22-1E082A1AE6A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A27AD349-2BD3-4E4C-B791-054E46AFAE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27AD349-2BD3-4E4C-B791-054E46AFAE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27AD349-2BD3-4E4C-B791-054E46AFAE64}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A27AD349-2BD3-4E4C-B791-054E46AFAE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27AD349-2BD3-4E4C-B791-054E46AFAE64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27AD349-2BD3-4E4C-B791-054E46AFAE64}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A22574CD-832C-400F-AF22-1E082A1AE6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22574CD-832C-400F-AF22-1E082A1AE6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22574CD-832C-400F-AF22-1E082A1AE6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22574CD-832C-400F-AF22-1E082A1AE6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E324577-A5B0-4C6F-97ED-0BC8398788C2}
+	EndGlobalSection
+EndGlobal
